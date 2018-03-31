@@ -1,0 +1,117 @@
+@media only screen and (max-width: 800px) {
+    .container {
+        width: 480px;
+        float: left;
+    }
+    .boxA {
+        width: 480px;
+        height: 75px;
+        
+        background-color:red
+    }
+    .boxB {
+        width: 480px;
+        height: 150px;
+        background-color: orange
+    }
+    .boxC {
+        width: 480px;
+        height: 125px;
+        background-color: yellow
+    }
+    .boxD {
+        width: 480px;
+        height: 125px;
+        background-color: blue
+    }
+    .boxE {
+        width: 240px;
+        height: 250px;
+        float: left;
+        background-color: indigo
+    }
+    .boxF {
+        width: 240px;
+        height: 250px;
+        float: right;
+        background-color: violet
+    }
+    .boxG {
+        width: 240px;
+        height: 250px;
+        float: left;
+        background-color: green;
+    }
+    .boxH {
+        width: 240px;
+        height: 250px;
+        float: left;
+        background-color: black
+    }
+    .bottom {
+        width: 480px;
+        height: 80px;
+        float: left;
+        background-color:red
+    }
+
+}
+
+@media only screen and (min-width: 801px) {
+    .container {
+    width: 480px;
+    float: left;
+}
+.boxA {
+    width: 480px;
+    height: 75px;
+    
+    background-color:red
+}
+.boxB {
+    width: 480px;
+    height: 150px;
+    background-color: orange
+}
+.boxC {
+    width: 480px;
+    height: 125px;
+    background-color: yellow
+}
+.boxD {
+    width: 480px;
+    height: 125px;
+    background-color: blue
+}
+.boxE {
+    width: 240px;
+    height: 250px;
+    float: left;
+    background-color: indigo
+}
+.boxF {
+    width: 240px;
+    height: 250px;
+    float: right;
+    background-color: violet
+}
+.boxG {
+    width: 240px;
+    height: 250px;
+    float: left;
+    background-color: green;
+}
+.boxH {
+    width: 240px;
+    height: 250px;
+    float: left;
+    background-color: black
+}
+.bottom {
+    width: 480px;
+    height: 80px;
+    float: left;
+    background-color:red
+}
+
+}
